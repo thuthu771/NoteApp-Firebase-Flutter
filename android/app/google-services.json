@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865268194722",
+    "project_id": "crud-82dfc",
+    "storage_bucket": "crud-82dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865268194722:android:8f0b9d2386910ef08766fb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv2EjJCRIzR24xdiE5qeFEn7r1tZoHLL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
